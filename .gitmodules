@@ -1,0 +1,6 @@
+[submodule "sbcl"]
+	path = sbcl
+	url = ./sbcl
+[submodule "pvs"]
+	path = pvs
+	url = ./pvs
