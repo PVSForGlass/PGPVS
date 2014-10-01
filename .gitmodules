@@ -1,6 +1,6 @@
 [submodule "sbcl"]
 	path = sbcl
-	url = ./sbcl
+	url = git://git.code.sf.net/p/sbcl/sbcl
 [submodule "pvs"]
 	path = pvs
-	url = ./pvs
+	url = https://github.com/MJDSys/PVS.git
